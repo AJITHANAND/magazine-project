@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/magazine-project/static/css/main.28f39f4c.css",
+    "main.js": "/magazine-project/static/js/main.bcd6854a.js",
+    "static/media/asca copy.png": "/magazine-project/static/media/asca copy.0b44bb3ac564fd20fd43.png",
+    "index.html": "/magazine-project/index.html",
+    "main.28f39f4c.css.map": "/magazine-project/static/css/main.28f39f4c.css.map",
+    "main.bcd6854a.js.map": "/magazine-project/static/js/main.bcd6854a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28f39f4c.css",
+    "static/js/main.bcd6854a.js"
+  ]
+}
